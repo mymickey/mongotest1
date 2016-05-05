@@ -1,0 +1,25 @@
+{
+  "name": "ddms-test",
+  "version": "0.2.2",
+  "description": "Data Drive Management System",
+  "license": "MIT",
+  "main": "bin/www",
+  "repository": "unbug/ddms",
+  "author": {
+    
+  },
+  "scripts": {},
+  "keywords": [
+    "Form System",
+    "node CMS",
+    "DDMS",
+    "reactjs",
+    "express app",
+    "Data Drive Management System"
+  ],
+  "dependencies": {
+    "mongodb": "^2.1.18",
+    "node-uuid": "^1.4.7",
+    "sprintf-js": "^1.0.3"
+  }
+}
